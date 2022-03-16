@@ -7,3 +7,4 @@ Sales from E-commerce export goods, simple data with simple report:
 
 It would be better to see more insights from customers if we can collect the data from senders.
  
+ ![alt text](sale-export-image.png)
